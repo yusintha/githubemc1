@@ -1,2 +1,1 @@
-creates test1.txt file
-my name is yusintha 
+city chennai
